@@ -1,0 +1,5 @@
+{
+  "name": "prompt-router",
+  "owner": { "name": "prompt-router" },
+  "plugins": [{ "name": "prompt-router", "source": "./" }]
+}

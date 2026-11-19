@@ -1,0 +1,1 @@
+{ "name": "prompt-router", "version": "0.1.0", "description": "Analyzes each prompt and recommends (or applies) a model and effort level", "license": "MIT", "types": "./types/index.d.ts" }
